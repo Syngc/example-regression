@@ -7,3 +7,5 @@ Notebooks with Regression Models
 - Neural Network
 - SVM
 - Linear Regression
+
+ANd deployment example with streamlit
